@@ -12,7 +12,7 @@ Skills:  HTML, CSS, JavaScript, React, Node.js, Express.js
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=123naim)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=123naim)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=123naim&show_icons=true&count_private=true)  
 

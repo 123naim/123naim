@@ -6,11 +6,10 @@ Hello! I'm Nayem Iqbal, a passionate web developer with a love for crafting clea
 
 Skills:  HTML, CSS, JavaScript, React, Node.js, Express.js
 
-<P style={text-align:'center'}>
+
   - 🌱 I’m currently learning Next.js 
   - 👯 I’m looking to collaborate on GitHub 
   - 💬 Ask me about Web Development 
-</P>
 
 
 

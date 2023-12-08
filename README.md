@@ -2,7 +2,7 @@
 #### Wed Developer
 ![Wed Developer](https://i.ibb.co/pzRryXY/Black-Modern-Vlogger-You-Tube-Banner.png)
 
-Hello! I'm Nayem Iqbal, a passionate web developer with a love for crafting clean and efficient code. I thrive on turning ideas into reality through the power of technology. With a background in [mention any relevant educational or professional experience], I bring a combination of skills in both front-end and back-end development.
+Hello! I'm Nayem Iqbal, a passionate web developer with a love for crafting clean and efficient code. I thrive on turning ideas into reality through the power of technology. I bring a combination of skills in both front-end and back-end development.
 
 Skills:  HTML, CSS, JavaScript, React, Node.js, Express.js
 

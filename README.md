@@ -10,7 +10,6 @@ Skills:  HTML, CSS, JavaScript, React, Node.js, Express.js
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
 
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/123naim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/123naim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/123naim/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=123naim)](https://github.com/anuraghazra/github-readme-stats)

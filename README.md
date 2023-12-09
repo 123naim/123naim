@@ -7,15 +7,17 @@
 
 
 <div align="center">
+  
   ## About Me
+  
 Hello! I'm Nayem Iqbal, a passionate web developer with a love for crafting clean and efficient code. I thrive on turning ideas into reality through the power of technology. I bring a combination of skills in both front-end and back-end development.
 
 Skills:  HTML, CSS, JavaScript, React, Node.js, Express.js
 
 
-  - 🌱 I’m currently learning Next.js 
-  - 👯 I’m looking to collaborate on GitHub 
-  - 💬 Ask me about Web Development
+  -- 🌱 I’m currently learning Next.js 
+  -- 👯 I’m looking to collaborate on GitHub 
+  -- 💬 Ask me about Web Development
 
 
   

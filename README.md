@@ -19,4 +19,10 @@ Skills:  HTML, CSS, JavaScript, React, Node.js, Express.js
  ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=123naim&theme=radical)
 
 
+ ## GitHub Profile Status
+
+ ![GitHub Profile Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=123naim&theme=radical)
+
+
+
 

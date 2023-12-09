@@ -19,6 +19,14 @@ Skills:  HTML, CSS, JavaScript, React, Node.js, Express.js
  ![GitHub Profile Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=123naim&theme=radical)
 
 
+
+## Top languages in commits card
+
+![GitHub Profile Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=123naim&theme=monokai&exclude=html,css,javaScript)
+
+
+
+
 ## Productive time card
 
  ![GitHub Profile Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=123naim&theme=monokai&utcOffset=5.5)

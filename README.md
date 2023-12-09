@@ -30,8 +30,7 @@ HTML, CSS, JavaScript, React, Node.js, Express.js
 
 ### FaceBook & Email Link : 
 
-- Email : [mdnayemiqbal69@gmail.com](mdnayemiqbal69@gmail.com)
-- <a href="mailto:example@example.com">Send Email</a>
+- Email : <a href="mdnayemiqbal69@gmail.com">mdnayemiqbal69@gmail.com</a>
 - Social Media : [Facebook](https://www.facebook.com/mdnayem.mdnayem.961993)
 
 <div align="center">

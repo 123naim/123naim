@@ -11,8 +11,6 @@ Skills:  HTML, CSS, JavaScript, React, Node.js, Express.js
   - 👯 I’m looking to collaborate on GitHub 
   - 💬 Ask me about Web Development 
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name}
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=123naim)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=123naim&show_icons=true&count_private=true)  

@@ -17,7 +17,7 @@ Skills:  HTML, CSS, JavaScript, React, Node.js, Express.js
 
 ## Skills: 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,javaScript,react,node.js,express,js)](https://skillicons.dev)
 
 <div align="center">
 

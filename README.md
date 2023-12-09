@@ -21,7 +21,7 @@ Skills:  HTML, CSS, JavaScript, React, Node.js, Express.js
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=123naim&theme=monokai&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 
   
@@ -43,6 +43,12 @@ Skills:  HTML, CSS, JavaScript, React, Node.js, Express.js
 ## Productive time card
 
  ![GitHub Profile Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=123naim&theme=monokai&utcOffset=5.5)
+
+
+
+## GitHub Streak Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=123naim&theme=monokai&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 

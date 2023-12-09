@@ -12,12 +12,8 @@ Skills:  HTML, CSS, JavaScript, React, Node.js, Express.js
   - 💬 Ask me about Web Development
 
 
-<div align="center">
   ## GitHub Profile Details card
  ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=123naim&theme=radical)
-</div>
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=123naim)](https://github.com/anuraghazra/github-readme-stats) 
 

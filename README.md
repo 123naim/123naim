@@ -22,8 +22,6 @@ Skills:  HTML, CSS, JavaScript, React, Node.js, Express.js
 <div align="center">
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
-
 
   
    

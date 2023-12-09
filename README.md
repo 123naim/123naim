@@ -3,7 +3,11 @@
 ![Wed Developer](https://i.ibb.co/pzRryXY/Black-Modern-Vlogger-You-Tube-Banner.png)
 
 
-## About Me
+
+
+
+<div align="center">
+  ## About Me
 Hello! I'm Nayem Iqbal, a passionate web developer with a love for crafting clean and efficient code. I thrive on turning ideas into reality through the power of technology. I bring a combination of skills in both front-end and back-end development.
 
 Skills:  HTML, CSS, JavaScript, React, Node.js, Express.js
@@ -14,7 +18,7 @@ Skills:  HTML, CSS, JavaScript, React, Node.js, Express.js
   - 💬 Ask me about Web Development
 
 
-<div align="center">
+  
    ## GitHub Profile Status
 
  ![GitHub Profile Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=123naim&theme=radical)

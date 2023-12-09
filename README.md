@@ -7,6 +7,11 @@
   
 Hello! I'm Nayem Iqbal, a passionate web developer with a love for crafting clean and efficient code. I thrive on turning ideas into reality through the power of technology. I bring a combination of skills in both front-end and back-end development.
 
+
+## short Description
+
+I am proficient in web development technologies, including HTML, CSS, and JavaScript, for building responsive and visually appealing user interfaces. Additionally, I have hands-on experience in React for building dynamic and interactive front-end applications.
+
 Skills:  HTML, CSS, JavaScript, React, Node.js, Express.js
 
 

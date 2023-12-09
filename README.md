@@ -22,7 +22,8 @@ Skills:  HTML, CSS, JavaScript, React, Node.js, Express.js
 
 ## Top languages in commits card
 
-![GitHub Profile Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=123naim&theme=monokai&exclude=html,css,javaScript)
+![GitHub Profile Repositories per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=123naim&theme=monokai&layout=compact&exclude=html,javascript,css,react)
+
 
 
 

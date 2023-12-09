@@ -15,7 +15,9 @@ Skills:  HTML, CSS, JavaScript, React, Node.js, Express.js
  - 👯 I’m looking to collaborate on GitHub 
  - 💬 Ask me about Web Development
 
+## Skills: 
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <div align="center">
 

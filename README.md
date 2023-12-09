@@ -16,14 +16,18 @@ Skills:  HTML, CSS, JavaScript, React, Node.js, Express.js
 
 
 <!-- Example with proper spacing -->
-- 🌱 I’m currently learning Next.js 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development
+ 🌱 I’m currently learning Next.js 
+ 👯 I’m looking to collaborate on GitHub 
+ 💬 Ask me about Web Development
+
+
+
 
 
 
   
-   ## GitHub Profile Status
+   
+  ## GitHub Profile Status
 
  ![GitHub Profile Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=123naim&theme=radical)
 

@@ -19,13 +19,10 @@ Skills:  HTML, CSS, JavaScript, React, Node.js, Express.js
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express)](https://skillicons.dev)
 
-## Email: 
+Email: [your.email@example.com](mailto:your.email@example.com)
 
-[your.email@example.com](mdnayemiqbal69@gmail.com)
-
-## Social Media:
-
-- [facebook]([https://twitter.com/your_twitter_handle](https://www.facebook.com/))
+Social Media:
+- [Facebook](https://www.facebook.com/)
 
 <div align="center">
 

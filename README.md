@@ -12,7 +12,7 @@ Hello! I'm Nayem Iqbal, a passionate web developer with a love for crafting clea
 
 I am proficient in web development technologies, including HTML, CSS, and JavaScript, for building responsive and visually appealing user interfaces. Additionally, I have hands-on experience in React for building dynamic and interactive front-end applications.
 
-Skills:  HTML, CSS, JavaScript, React, Node.js, Express.js
+
 
 
 <!-- Example with proper spacing -->
@@ -21,6 +21,8 @@ Skills:  HTML, CSS, JavaScript, React, Node.js, Express.js
  - 💬 Ask me about Web Development
 
 ## Skills: 
+
+HTML, CSS, JavaScript, React, Node.js, Express.js
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express)](https://skillicons.dev)
 

@@ -24,6 +24,7 @@ I am proficient in web development technologies, including HTML, CSS, and JavaSc
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express)](https://skillicons.dev)
+
 HTML, CSS, JavaScript, React, Node.js, Express.js
 
 

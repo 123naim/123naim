@@ -21,8 +21,6 @@ Skills:  HTML, CSS, JavaScript, React, Node.js, Express.js
 
 
 
-[![Project 1]([link-to-repo-1](https://github.com/123naim/corporate-events))]([link-to-repo-1](https://github.com/123naim/corporate-events))
-
 <div align="center">
 
 
